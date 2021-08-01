@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 
-class Program
+class stopwatch
 {
 	static void Main()
 	{
