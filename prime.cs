@@ -1,5 +1,5 @@
 ﻿using System;
-public class PrimeNumberExample
+public class PrimeNumber
 {
     public static void Main(string[] args)
     {
