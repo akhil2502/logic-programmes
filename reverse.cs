@@ -1,5 +1,5 @@
 ﻿using System;
-public class ReverseExample
+public class Reverse
 {
     public static void Main(string[] args)
     {
